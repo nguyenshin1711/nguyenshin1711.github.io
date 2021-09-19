@@ -1,0 +1,11 @@
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\bin\Debug\BasicControl.exe.config
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\bin\Debug\BasicControl.exe
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\bin\Debug\BasicControl.pdb
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\obj\Debug\Winform_BT.csproj.SuggestedBindingRedirects.cache
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\obj\Debug\BasicControl.Form1.resources
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\obj\Debug\BasicControl.FormTest.resources
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\obj\Debug\BasicControl.Properties.Resources.resources
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\obj\Debug\Winform_BT.csproj.GenerateResource.cache
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\obj\Debug\Winform_BT.csproj.CoreCompileInputs.cache
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\obj\Debug\BasicControl.exe
+C:\Users\VN\Desktop\Projects\CSharp\Hoc truong\TextApps\BasicControl\obj\Debug\BasicControl.pdb
